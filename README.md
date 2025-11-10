@@ -3,7 +3,7 @@
 
 ## 🛠 Tecnologies  
 - SQL
-- Draw.io (Diagrames, format XML)
+- Draw.io (Diagrames, format PNG)
 
 ## 🚀 Instal·lació  
 1. Clonar el repositori:  
